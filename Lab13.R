@@ -5,7 +5,7 @@ set.seed(20); y=rnorm(35,mean=10,sd=4)
 var.test(x,y)
 t.test(x,y,alt="greater")
 
-set.seed(20); y=rnorm(35,mean=##,sd=4)
+set.seed(20); y=rnorm(35,mean=,sd=4)
 t.test(x,y,alt="greater")
 
 
